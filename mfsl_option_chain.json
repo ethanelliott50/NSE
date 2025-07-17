@@ -452,6 +452,27 @@
       {
         "strikePrice": 1440,
         "expiryDate": "31-Jul-2025",
+        "CE": {
+          "strikePrice": 1440,
+          "expiryDate": "31-Jul-2025",
+          "underlying": "MFSL",
+          "identifier": "OPTSTKMFSL31-07-2025CE1440.00",
+          "openInterest": 5,
+          "changeinOpenInterest": 0,
+          "pchangeinOpenInterest": 0,
+          "totalTradedVolume": 0,
+          "impliedVolatility": 0,
+          "lastPrice": 141.85,
+          "change": 0,
+          "pChange": 0,
+          "totalBuyQuantity": 37600,
+          "totalSellQuantity": 41600,
+          "bidQty": 5600,
+          "bidprice": 101.8,
+          "askQty": 2400,
+          "askPrice": 113.5,
+          "underlyingValue": 1538
+        },
         "PE": {
           "strikePrice": 1440,
           "expiryDate": "31-Jul-2025",
@@ -472,27 +493,6 @@
           "askQty": 800,
           "askPrice": 6.15,
           "underlyingValue": 1538
-        },
-        "CE": {
-          "strikePrice": 1440,
-          "expiryDate": "31-Jul-2025",
-          "underlying": "MFSL",
-          "identifier": "OPTSTKMFSL31-07-2025CE1440.00",
-          "openInterest": 0,
-          "changeinOpenInterest": 0,
-          "pchangeinOpenInterest": 0,
-          "totalTradedVolume": 0,
-          "impliedVolatility": 0,
-          "lastPrice": 141.85,
-          "change": 0,
-          "pChange": 0,
-          "totalBuyQuantity": 37600,
-          "totalSellQuantity": 41600,
-          "bidQty": 5600,
-          "bidprice": 101.8,
-          "askQty": 2400,
-          "askPrice": 113.5,
-          "underlyingValue": 0
         }
       },
       {
@@ -2770,6 +2770,27 @@
       {
         "strikePrice": 1440,
         "expiryDate": "31-Jul-2025",
+        "CE": {
+          "strikePrice": 1440,
+          "expiryDate": "31-Jul-2025",
+          "underlying": "MFSL",
+          "identifier": "OPTSTKMFSL31-07-2025CE1440.00",
+          "openInterest": 5,
+          "changeinOpenInterest": 0,
+          "pchangeinOpenInterest": 0,
+          "totalTradedVolume": 0,
+          "impliedVolatility": 0,
+          "lastPrice": 141.85,
+          "change": 0,
+          "pChange": 0,
+          "totalBuyQuantity": 37600,
+          "totalSellQuantity": 41600,
+          "bidQty": 5600,
+          "bidprice": 101.8,
+          "askQty": 2400,
+          "askPrice": 113.5,
+          "underlyingValue": 1538
+        },
         "PE": {
           "strikePrice": 1440,
           "expiryDate": "31-Jul-2025",
@@ -2790,27 +2811,6 @@
           "askQty": 800,
           "askPrice": 6.15,
           "underlyingValue": 1538
-        },
-        "CE": {
-          "strikePrice": 1440,
-          "expiryDate": "31-Jul-2025",
-          "underlying": "MFSL",
-          "identifier": "OPTSTKMFSL31-07-2025CE1440.00",
-          "openInterest": 0,
-          "changeinOpenInterest": 0,
-          "pchangeinOpenInterest": 0,
-          "totalTradedVolume": 0,
-          "impliedVolatility": 0,
-          "lastPrice": 141.85,
-          "change": 0,
-          "pChange": 0,
-          "totalBuyQuantity": 37600,
-          "totalSellQuantity": 41600,
-          "bidQty": 5600,
-          "bidprice": 101.8,
-          "askQty": 2400,
-          "askPrice": 113.5,
-          "underlyingValue": 0
         }
       },
       {
@@ -3781,7 +3781,7 @@
       }
     ],
     "CE": {
-      "totOI": 2365,
+      "totOI": 2370,
       "totVol": 9830
     },
     "PE": {
